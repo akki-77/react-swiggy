@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.img-logo {
+    height: 100px;
+    width: 100px;
+}
+
+.nav-list {
+    list-style-type: none;
+  }
+  
+  .nav-list li {
+    display: inline-block;
+    margin-right: 15px;
+    cursor: pointer;
+  }
