@@ -19,3 +19,67 @@
     margin-right: 15px;
     cursor: pointer;
   }
+
+  .footer {
+    height: 50px;
+    display: flex;
+    border: 0.5px solid #dedede;
+    align-items: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    margin-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .footer span {
+    margin: 20px;
+    cursor: pointer;
+  }
+
+  .card-cont {
+    display: flex;
+    flex-direction: column;
+    min-height: 1100px;
+  }
+
+  .rest-card-cont {
+    padding: 15px;;
+  }
+
+  .rest-card-cont {
+    width: 350px;
+    height: 450px;
+  }
+
+  .rest-card-data {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .rest-search {
+    padding: 30px 15px 10px 15px;
+  }
+
+  .rest-search-field {
+    height: 35px;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #dedede;
+  }
+
+  .rest-search-field:hover, .rest-search-field:focus {
+    border: none;
+    border-bottom: 1px solid #dedede;
+  }
+
+  .rest-search-icon {
+    position: absolute;
+    margin: 13px;
+  }
+
+  .rest-search-field::placeholder {
+    padding-left: 40px;
+  }
