@@ -3,6 +3,10 @@
     justify-content: space-between;
     align-items: center;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    background-color: #ffffff;
+    width: 100%;
+    top: 0;
 }
 
 .img-logo {
@@ -20,18 +24,21 @@
     cursor: pointer;
   }
 
+  .body {
+    margin-top: 100px;
+    margin-bottom: 50px;
+  }
+
   .footer {
-    height: 50px;
     display: flex;
-    border: 0.5px solid #dedede;
-    align-items: center;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-    margin-bottom: 10px;
     justify-content: center;
     align-items: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    border: none;
+    background-color: #fff;
+    height: 55px;
   }
 
   .footer span {
@@ -41,8 +48,9 @@
 
   .card-cont {
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     min-height: 1100px;
+    justify-content: space-around;
   }
 
   .rest-card-cont {
@@ -53,11 +61,6 @@
     width: 350px;
     height: 450px;
   }
-
-  .rest-card-data {
-    display: flex;
-    justify-content: space-between;
-  }
   
   .rest-search {
     padding: 30px 15px 10px 15px;
@@ -65,9 +68,11 @@
 
   .rest-search-field {
     height: 35px;
-    width: 100%;
+    width: 98%;
+    padding-left: 45px;
     border: none;
     border-bottom: 1px solid #dedede;
+    outline: none;
   }
 
   .rest-search-field:hover, .rest-search-field:focus {

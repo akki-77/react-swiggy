@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-import gigiRigolatto from './resources/images/Gigi_Rigolatto.png';
+import Logo from './resources/images/Logo.png';
+import resData from './resources/json-data/res-data.json';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCartShopping, faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
@@ -24,7 +25,7 @@ const Header = () => {
     return (
         <div className='header'>
             <div>
-                <img className='img-logo' src="https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwMzMtYS0xNC1hXzIta3N5NXNveGguanBn.jpg" alt="Logo" />
+                <img className='img-logo' src={Logo} alt="Logo" />
             </div>
             <div className='nav-cont'>
                 <ul className='nav-list'>
@@ -38,14 +39,38 @@ const Header = () => {
     );
 };
 
+const RestCard = (props) => {
+    const restaurantData = props.restaurantData.info;
+    return (
+        <div className='rest-card-cont'>
+            {console.log(restaurantData)}
+             <img src={"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/" + restaurantData.cloudinaryImageId} alt="gigiRigolatto" style={{ width: '350px', height: '250px' }} />
+            <div className='rest-card-data'>
+                <h3>{restaurantData.name}</h3>
+                <h4>{restaurantData.cuisines.join(", ")}</h4>
+            </div>
+            <p>{restaurantData.costForTwo}</p>
+            <div>
+                
+                {Array.from({length: Math.floor(restaurantData.avgRating) }).map((_, index) => (
+                    <Star
+                        key={index}
+                        filled={Math.floor(restaurantData.avgRating)}
+                    />
+                ))}
+            </div>
+        </div>
+    );
+};
+
 const Body = () => {
     return (
         <div className='body'>
             <div className='rest-search'>
+                <div className='rest-search-icon'>
+                    <FontAwesomeIcon icon={faMagnifyingGlass} />
+                </div>
                 <form onSubmit={restSearch}>
-                    <div className='rest-search-icon'>
-                        <FontAwesomeIcon icon={faMagnifyingGlass} />
-                    </div>
                     <input
                         className='rest-search-field'
                         type="text"
@@ -54,27 +79,9 @@ const Body = () => {
                 </form>
             </div>
             <div className='card-cont'>
-                <div className='rest-card-cont'>
-                    <img src={gigiRigolatto} alt="gigiRigolatto" style={{ width: '350px', height: '250px' }} />
-                    <div className='rest-card-data'>
-                        <div>
-                            <h3>Gigi Rigolatto</h3>
-                            <h4>Italian American </h4>
-                            <h5>5.0 stars</h5>
-                            
-                            {[1,2,3,4,5,6,7].map((index) => (
-                                <Star
-                                    key={index}
-                                    filled={index}
-                                />
-                            ))}
-                        </div>
-                        <div>
-                            <p>400 for two</p>
-                            <p>50 mins</p>
-                        </div>
-                    </div>
-                </div>
+                {resData.data.cards[0].card.card.gridElements.infoWithStyle.restaurants.map((restaurant) => (
+                    <RestCard key={restaurant?.info?.id} restaurantData={restaurant} />
+                ))}
             </div>
         </div>
     );

@@ -1,0 +1,1153 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "pageOffset": {
+            "nextOffset": "COVCELQ4KICg8rXLyIqqMjCnEzgE",
+            "widgetOffset": {
+                "NewListingView_category_bar_chicletranking_TwoRows": "",
+                "NewListingView_category_bar_chicletranking_TwoRows_Rendition": "",
+                "Restaurant_Group_WebView_PB_Theme": "",
+                "Restaurant_Group_WebView_SEO_PB_Theme": "",
+                "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo": "55",
+                "inlineFacetFilter": "",
+                "restaurantCountWidget": ""
+            }
+        },
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "columns": 4
+                        },
+                        "id": "restaurant_grid_listing",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.FavouriteRestaurantInfoWithStyle",
+                                "restaurants": [
+                                    {
+                                        "info": {
+                                            "id": "739624",
+                                            "name": "Am Foods",
+                                            "cloudinaryImageId": "o7xqmbsblqkr0v51sgwu",
+                                            "locality": "Guru Nanakpura",
+                                            "areaName": "Laxmi Nagar",
+                                            "costForTwo": "₹200 for two",
+                                            "cuisines": [
+                                                "Pizzas",
+                                                "Indian",
+                                                "Beverages",
+                                                "Chinese",
+                                                "Tandoor",
+                                                "Fast Food"
+                                            ],
+                                            "avgRating": 3.9,
+                                            "veg": true,
+                                            "parentId": "439133",
+                                            "avgRatingString": "3.9",
+                                            "totalRatingsString": "100+",
+                                            "sla": {
+                                                "deliveryTime": 48,
+                                                "lastMileTravel": 7.1,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "45-50 mins",
+                                                "lastMileTravelString": "7.1 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 04:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "30% OFF",
+                                                "subHeader": "ABOVE ₹1000",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/am-foods-guru-nanakpura-laxmi-nagar-delhi-739624",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "599032",
+                                            "name": "Danish Kabab",
+                                            "cloudinaryImageId": "535fc9f9c135f7982317bbb6a64a1ffc",
+                                            "locality": "Gandhi Nagar",
+                                            "areaName": "Geeta Colony",
+                                            "costForTwo": "₹200 for two",
+                                            "cuisines": [
+                                                "Indian"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "parentId": "357853",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "1K+",
+                                            "sla": {
+                                                "deliveryTime": 50,
+                                                "lastMileTravel": 7.3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "45-50 mins",
+                                                "lastMileTravelString": "7.3 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 03:30:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "aggregatedDiscountInfoV2": {},
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/danish-kabab-gandhi-nagar-geeta-colony-delhi-599032",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "680648",
+                                            "name": "Singh's Butter Chicken",
+                                            "cloudinaryImageId": "63178e3e64d503a479f2a2048a474552",
+                                            "locality": "Satya Niketan North",
+                                            "areaName": "Ashok Vihar",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "North Indian",
+                                                "Mughlai",
+                                                "Tandoor",
+                                                "Biryani",
+                                                "Punjabi",
+                                                "Grill",
+                                                "Home Food",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4,
+                                            "parentId": "267223",
+                                            "avgRatingString": "4.0",
+                                            "totalRatingsString": "1K+",
+                                            "sla": {
+                                                "deliveryTime": 46,
+                                                "lastMileTravel": 9.1,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "45-50 mins",
+                                                "lastMileTravelString": "9.1 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 03:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹150 OFF",
+                                                "subHeader": "ABOVE ₹349",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/singhs-butter-chicken-satya-niketan-north-ashok-vihar-delhi-680648",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "64268",
+                                            "name": "QWICK GRAB KATHI ROLLS and MORE",
+                                            "cloudinaryImageId": "2d5e5466ab09670ad6fe3bf90ba84b61",
+                                            "locality": "Satnam Park",
+                                            "areaName": "Chander Nagar",
+                                            "costForTwo": "₹300 for two",
+                                            "cuisines": [
+                                                "Fast Food"
+                                            ],
+                                            "avgRating": 4.2,
+                                            "parentId": "163590",
+                                            "avgRatingString": "4.2",
+                                            "totalRatingsString": "1K+",
+                                            "sla": {
+                                                "deliveryTime": 46,
+                                                "lastMileTravel": 6.9,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "45-50 mins",
+                                                "lastMileTravelString": "6.9 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 04:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "20% OFF",
+                                                "subHeader": "UPTO ₹50"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/qwick-grab-kathi-rolls-and-more-satnam-park-chander-nagar-delhi-64268",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "54977",
+                                            "name": "Jeet Restaurant",
+                                            "cloudinaryImageId": "o7xqmbsblqkr0v51sgwu",
+                                            "locality": "Chander Nagar",
+                                            "areaName": "Chander Nagar",
+                                            "costForTwo": "₹350 for two",
+                                            "cuisines": [
+                                                "North Indian",
+                                                "Chinese"
+                                            ],
+                                            "avgRating": 3.9,
+                                            "parentId": "11570",
+                                            "avgRatingString": "3.9",
+                                            "totalRatingsString": "10K+",
+                                            "sla": {
+                                                "deliveryTime": 40,
+                                                "lastMileTravel": 6.7,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "40-45 mins",
+                                                "lastMileTravelString": "6.7 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 02:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                        "description": "pureveg"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "pureveg",
+                                                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹125 OFF",
+                                                "subHeader": "ABOVE ₹299",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/jeet-restaurant-chander-nagar-delhi-54977",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "395952",
+                                            "name": "Mann Makhani",
+                                            "cloudinaryImageId": "fxgaxftihmn3ijroeloy",
+                                            "locality": "2nd Phase",
+                                            "areaName": "Ashok vihar",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "North Indian",
+                                                "Mughlai",
+                                                "Thalis",
+                                                "Beverages",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.2,
+                                            "parentId": "250183",
+                                            "avgRatingString": "4.2",
+                                            "totalRatingsString": "1K+",
+                                            "sla": {
+                                                "deliveryTime": 54,
+                                                "lastMileTravel": 9.1,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "50-55 mins",
+                                                "lastMileTravelString": "9.1 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 03:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹150 OFF",
+                                                "subHeader": "ABOVE ₹499",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/mann-makhani-2nd-phase-ashok-vihar-delhi-395952",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "545015",
+                                            "name": "Baskin Robbins - Ice Cream Desserts",
+                                            "cloudinaryImageId": "85ccae4e3576f9330af102c46ca85395",
+                                            "locality": "Jawahar Nagar",
+                                            "areaName": "Kamla Nagar",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "Desserts",
+                                                "Ice Cream"
+                                            ],
+                                            "avgRating": 4.5,
+                                            "veg": true,
+                                            "parentId": "5588",
+                                            "avgRatingString": "4.5",
+                                            "totalRatingsString": "100+",
+                                            "sla": {
+                                                "deliveryTime": 34,
+                                                "lastMileTravel": 5,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "5.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 05:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "imageBadges": [
+                                                    {
+                                                        "imageId": "Rxawards/_CATEGORY-Ice-creams.png",
+                                                        "description": "Delivery!"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "Delivery!",
+                                                                    "imageId": "Rxawards/_CATEGORY-Ice-creams.png"
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "50% OFF",
+                                                "subHeader": "UPTO ₹90"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/baskin-robbins-ice-cream-desserts-jawahar-nagar-kamla-nagar-delhi-545015",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "408212",
+                                            "name": "Haldiram's",
+                                            "cloudinaryImageId": "lphdqofcefezspk7hqik",
+                                            "locality": "Ajmeri Gate",
+                                            "areaName": "Connaught Place",
+                                            "costForTwo": "₹500 for two",
+                                            "cuisines": [
+                                                "Sweets",
+                                                "Chinese",
+                                                "Desserts",
+                                                "North Indian",
+                                                "South Indian"
+                                            ],
+                                            "avgRating": 4.1,
+                                            "veg": true,
+                                            "parentId": "377669",
+                                            "avgRatingString": "4.1",
+                                            "totalRatingsString": "1K+",
+                                            "sla": {
+                                                "deliveryTime": 35,
+                                                "lastMileTravel": 3.7,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "3.7 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 02:45:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹50 OFF",
+                                                "subHeader": "ABOVE ₹249",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/haldirams-ajmeri-gate-connaught-place-delhi-408212",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "197770",
+                                            "name": "Gianis - Ice Cream, Shakes & Sundaes",
+                                            "cloudinaryImageId": "2365e2117e199c2b9a2cfa643c31b05c",
+                                            "locality": "Laxmi Nagar",
+                                            "areaName": "Krishna Nagar",
+                                            "costForTwo": "₹280 for two",
+                                            "cuisines": [
+                                                "Beverages",
+                                                "Desserts",
+                                                "Ice Cream"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "parentId": "427371",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "1K+",
+                                            "sla": {
+                                                "deliveryTime": 31,
+                                                "lastMileTravel": 7.3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "7.3 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 02:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "aggregatedDiscountInfoV2": {},
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/gianis-ice-cream-shakes-and-sundaes-laxmi-nagar-krishna-nagar-delhi-197770",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "8620",
+                                            "name": "Biryani Blues",
+                                            "cloudinaryImageId": "97377e54937c079fe269d744aa66274a",
+                                            "locality": "Connaught Place",
+                                            "areaName": "Connaught Place",
+                                            "costForTwo": "₹400 for two",
+                                            "cuisines": [
+                                                "Biryani",
+                                                "Hyderabadi",
+                                                "Lucknowi",
+                                                "Kebabs",
+                                                "Desserts",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4.4,
+                                            "parentId": "13813",
+                                            "avgRatingString": "4.4",
+                                            "totalRatingsString": "10K+",
+                                            "sla": {
+                                                "deliveryTime": 31,
+                                                "lastMileTravel": 5,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "5.0 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 02:45:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "₹125 OFF",
+                                                "subHeader": "ABOVE ₹249",
+                                                "discountTag": "FLAT DEAL"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/biryani-blues-connaught-place-delhi-8620",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "10422",
+                                            "name": "Keventers - Milkshakes & Desserts",
+                                            "cloudinaryImageId": "1c8517dc925655dfff4d3617bd2191a5",
+                                            "locality": "Jawahar Nagar",
+                                            "areaName": "Kamla Nagar",
+                                            "costForTwo": "₹200 for two",
+                                            "cuisines": [
+                                                "Beverages",
+                                                "Ice Cream",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "veg": true,
+                                            "parentId": "268997",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "5K+",
+                                            "sla": {
+                                                "deliveryTime": 27,
+                                                "lastMileTravel": 5.5,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "25-30 mins",
+                                                "lastMileTravelString": "5.5 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 04:00:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "50% OFF",
+                                                "subHeader": "UPTO ₹90"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/keventers-milkshakes-and-desserts-jawahar-nagar-kamla-nagar-delhi-10422",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "218676",
+                                            "name": "Chai Point",
+                                            "cloudinaryImageId": "dr5aflzisbsyi4ntu6th",
+                                            "locality": "B Block",
+                                            "areaName": "Connaught Place",
+                                            "costForTwo": "₹150 for two",
+                                            "cuisines": [
+                                                "Bakery",
+                                                "Beverages",
+                                                "Maharashtrian",
+                                                "Snacks",
+                                                "Street Food",
+                                                "South Indian",
+                                                "Healthy Food",
+                                                "Home Food",
+                                                "North Indian"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "parentId": "1607",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "5K+",
+                                            "sla": {
+                                                "deliveryTime": 33,
+                                                "lastMileTravel": 4.3,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "4.3 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 02:45:00",
+                                                "opened": true
+                                            },
+                                            "badges": {
+                                                "textExtendedBadges": [
+                                                    {
+                                                        "iconId": "guiltfree/GF_Logo_android_3x",
+                                                        "shortDescription": "options available",
+                                                        "fontColor": "#7E808C"
+                                                    }
+                                                ]
+                                            },
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {
+                                                        "badgeObject": [
+                                                            {
+                                                                "attributes": {
+                                                                    "description": "",
+                                                                    "fontColor": "#7E808C",
+                                                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                                                    "shortDescription": "options available"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "50% OFF",
+                                                "subHeader": "UPTO ₹90"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/chai-point-b-block-connaught-place-delhi-218676",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "35887",
+                                            "name": "Sweet Truth - Cake and Desserts",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/27/8ceaa835-d02a-40b8-b1e2-94af05fcc476_35887.JPG",
+                                            "locality": "Minto Road",
+                                            "areaName": "Connaught Place",
+                                            "costForTwo": "₹450 for two",
+                                            "cuisines": [
+                                                "Snacks",
+                                                "Bakery",
+                                                "Desserts",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4.4,
+                                            "parentId": "4444",
+                                            "avgRatingString": "4.4",
+                                            "totalRatingsString": "1K+",
+                                            "sla": {
+                                                "deliveryTime": 35,
+                                                "lastMileTravel": 5.8,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "5.8 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 02:45:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "50% OFF",
+                                                "subHeader": "UPTO ₹100"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/sweet-truth-cake-and-desserts-minto-road-connaught-place-delhi-35887",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "709280",
+                                            "name": "Frozen Bottle - Milkshakes, Desserts And Ice Cream",
+                                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/13/6403ca46-06e2-4569-88f4-2c512cefdae7_709280.jpg",
+                                            "locality": "Shop no 78",
+                                            "areaName": "Cannaught place",
+                                            "costForTwo": "₹250 for two",
+                                            "cuisines": [
+                                                "Beverages",
+                                                "Ice Cream",
+                                                "Desserts"
+                                            ],
+                                            "avgRating": 4.2,
+                                            "veg": true,
+                                            "parentId": "5655",
+                                            "avgRatingString": "4.2",
+                                            "totalRatingsString": "100+",
+                                            "sla": {
+                                                "deliveryTime": 26,
+                                                "lastMileTravel": 4.4,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "25-30 mins",
+                                                "lastMileTravelString": "4.4 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 02:45:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "50% OFF",
+                                                "subHeader": "UPTO ₹90"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/frozen-bottle-milkshakes-desserts-and-ice-cream-shop-no-78-cannaught-place-delhi-709280",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    },
+                                    {
+                                        "info": {
+                                            "id": "157768",
+                                            "name": "The Good Bowl",
+                                            "cloudinaryImageId": "6e04be27387483a7c00444f8e8241108",
+                                            "locality": "Minto Road",
+                                            "areaName": "Connaught Place",
+                                            "costForTwo": "₹400 for two",
+                                            "cuisines": [
+                                                "Biryani",
+                                                "Pastas",
+                                                "Punjabi",
+                                                "Desserts",
+                                                "Beverages"
+                                            ],
+                                            "avgRating": 4.3,
+                                            "parentId": "7918",
+                                            "avgRatingString": "4.3",
+                                            "totalRatingsString": "1K+",
+                                            "sla": {
+                                                "deliveryTime": 32,
+                                                "lastMileTravel": 5.8,
+                                                "serviceability": "SERVICEABLE",
+                                                "slaString": "30-35 mins",
+                                                "lastMileTravelString": "5.8 km",
+                                                "iconType": "ICON_TYPE_EMPTY"
+                                            },
+                                            "availability": {
+                                                "nextCloseTime": "2024-06-01 02:45:00",
+                                                "opened": true
+                                            },
+                                            "badges": {},
+                                            "isOpen": true,
+                                            "type": "F",
+                                            "badgesV2": {
+                                                "entityBadges": {
+                                                    "imageBased": {},
+                                                    "textBased": {},
+                                                    "textExtendedBadges": {}
+                                                }
+                                            },
+                                            "aggregatedDiscountInfoV3": {
+                                                "header": "40% OFF",
+                                                "subHeader": "UPTO ₹80"
+                                            },
+                                            "orderabilityCommunication": {
+                                                "title": {},
+                                                "subTitle": {},
+                                                "message": {},
+                                                "customIcon": {}
+                                            },
+                                            "differentiatedUi": {
+                                                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                "differentiatedUiMediaDetails": {
+                                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                    "lottie": {},
+                                                    "video": {}
+                                                }
+                                            },
+                                            "reviewsSummary": {},
+                                            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                            "restaurantOfferPresentationInfo": {}
+                                        },
+                                        "analytics": {},
+                                        "cta": {
+                                            "link": "https://www.swiggy.com/restaurants/the-good-bowl-minto-road-connaught-place-delhi-157768",
+                                            "text": "RESTAURANT_MENU",
+                                            "type": "WEBLINK"
+                                        },
+                                        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                                    }
+                                ],
+                                "theme": "SeoRestaurantListingGridWidget"
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "nextFetch": 3
+    },
+    "tid": "877012e0-8678-4b31-aabe-d7bbd5a13e69",
+    "sid": "e5de6ae3-d66d-4906-bccd-03bd2960b6b3",
+    "deviceId": "6784d61e-521b-4d5a-1280-71a602c24d29",
+    "csrfToken": null
+}
