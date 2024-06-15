@@ -75,6 +75,10 @@
     outline: none;
   }
 
+.top-rated-btn {
+  margin: 15px;
+}
+
   .rest-search-field:hover, .rest-search-field:focus {
     border: none;
     border-bottom: 1px solid #dedede;
